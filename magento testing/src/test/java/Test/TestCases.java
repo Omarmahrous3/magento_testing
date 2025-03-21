@@ -27,7 +27,6 @@ public class TestCases {
     }
 
 
-
 //Create an Account
 @Test(priority = 2)
 public static void test2() {
